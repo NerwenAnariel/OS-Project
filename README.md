@@ -10,7 +10,7 @@ Java codes for FCFS, SJF, SRT and Round Robin algorithms.
 ## Completed Codes:
 
 - [x] FCFS
-- [ ] SJF
+- [x] SJF
 - [ ] SRT
 - [ ] RR
 
@@ -40,8 +40,9 @@ A B C
 
 The first three lines are for (in order) FCFS, SJF and SRT. The 4 following lines belong to RR.
 
-##### Example (Only FCFS until full completion of the project):
+##### Example (Only FCFS and SJF until full completion of the project):
 
 ```
+BBBBBAAAACCC
 BBBBBAAAACCC
 ```
