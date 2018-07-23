@@ -1,4 +1,4 @@
-# OS-Project
+# OS Project Phase One, Spring 2018
 Java codes for FCFS, SJF, SRT and Round Robin algorithms.
 
 ## How The Inputs Should Be: (For All Codes uploaded.)
